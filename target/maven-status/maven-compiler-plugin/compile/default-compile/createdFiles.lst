@@ -1,1 +1,5 @@
 mvcSpring\HomeController.class
+mvcSpring\Student.class
+mvcSpring\StudentController.class
+mvcSpring\SillyController.class
+mvcSpring\HelloWorldController.class
