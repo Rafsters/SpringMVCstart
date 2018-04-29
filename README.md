@@ -1,2 +1,1 @@
-# SpringMVCstart
-# SpringMVCJSP
+# Spring MVC Project
